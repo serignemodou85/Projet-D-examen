@@ -1,0 +1,27 @@
+.formulaire-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.form-title {
+    font-weight: bold;
+    color: #0a0a33;
+}
+
+.btn-ajouter {
+    background-color: #001f87;
+    color: #ffffff;
+    font-weight: bold;
+    border: none;
+}
+
+.btn-ajouter:hover {
+    background-color: #001470;
+}
+
+.custom-checkbox {
+    font-size: 0.9rem;
+}
